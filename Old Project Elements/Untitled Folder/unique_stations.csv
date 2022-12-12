@@ -1,0 +1,189 @@
+Region,Basin Name,CITY,STATION
+Connecticut River,CONNECTICUT,Amherst,AMH307
+Connecticut River,CONNECTICUT,Amherst,AMHNWS
+Connecticut River,DEERFIELD,Ashfield,ASFNWS
+Central,NASHUA,Ashburnham,ASHNWS
+Central,MILLERS,Athol,ATH404
+Southeast,TAUNTON,Attleboro,ATT801
+Central,CHICOPEE,South Barre,BAR416
+Cape Cod and Islands,CAPE COD,Osterville,BAR916
+Cape Cod and Islands,CAPE COD,West Barnstable,BAR917
+Central,CHICOPEE,Hubbardston,BARCOE
+Northeast,SHAWSHEEN,Bedford,BEDNWS
+Connecticut River,CHICOPEE,Belchertown,BEL314
+Southeast,BLACKSTONE,Bellingham,BEL736
+Northeast,CONCORD,Hudson,BER510
+Northeast,IPSWICH,Beverly,BEV609
+Northeast,NORTH COASTAL,Beverly,BEVNWS
+,MILLERS,South Royalston,BIRCOE
+Connecticut River,WESTFIELD,Blandford,BLA214
+,WESTFIELD,Blandford,BORNWS
+Northeast,BOSTON HARBOR,East Boston,BOSNWS
+Central,NASHUA,Boylston,BOYMDC
+Northeast,BOSTON HARBOR,Braintree,BRAACO
+Southeast,TAUNTON,Bridgewater,BRI805
+Southeast,TAUNTON,Brockton,BRO803
+Central,FRENCH,Oxford,BUFCOE
+Northeast,IPSWICH,Burlington,BUR700
+Northeast,BOSTON HARBOR,Cambridge,CAM707
+Northeast,CONCORD,Carlisle,CAR708
+Cape Cod and Islands,CAPE COD,Chatham,CHANWS
+Connecticut River,WESTFIELD,Chesterfield,CHE209
+Connecticut River,CHICOPEE,Chicopee,CHI306
+Connecticut River,CHICOPEE,Granby,CHINWS
+Connecticut River,DEERFIELD,Charlemont,CHRNWS
+Northeast,NASHUA,Clinton,CLINWS
+Southeast,SOUTH COASTAL,Cohasset,COH726
+Connecticut River,DEERFIELD,Colrain,COLNWS
+Northeast,CONCORD,Concord,CON704
+Western,HOUSATONIC,Dalton,DAL104
+Southeast,BUZZARDS BAY,North Dartmouth,DAR818
+Central,BLACKSTONE,Douglas,DOU511
+,QUINEBAUG,Fiskdale,EBRCOE
+Cape Cod and Islands,ISLANDS,Vineyard Haven,EDG907
+Connecticut River,MILLERS,Erving,ERV303
+Southeast,BUZZARDS BAY,East Wareham,EWANWS
+Cape Cod and Islands,CAPE COD,Otis ANGB,FAL903
+Cape Cod and Islands,CAPE COD,Falmouth,FAL904
+,,Fitzwilliam,FIT401
+Southeast,BOSTON HARBOR,Foxborough,FOX732
+Southeast,CHARLES,Franklin,FRA728
+Central,MILLERS,Gardner,GAR406
+Northeast,NORTH COASTAL,Gloucester,GLO615
+Connecticut River,CONNECTICUT,Williamsburg,GOS207
+Connecticut River,WESTFIELD,Westfield,GRA220
+Western,HOUSATONIC,Great Barrington,GRE112
+Western,HOUSATONIC,Great Barrington,GRE114
+Connecticut River,DEERFIELD,Greenfield,GRE203
+Western,HOUSATONIC,South Egremont,GRENWS
+Northeast,MERRIMACK,Groveland,GRONWS
+Central,CHICOPEE,Gilbertville,HAR420
+Central,CHICOPEE,Hardwick,HAR421
+Cape Cod and Islands,CAPE COD,Harwich,HAR910
+Northeast,MERRIMACK,Haverhill,HAV555
+Northeast,MERRIMACK,Haverhill,HAVNWS
+Connecticut River,DEERFIELD,Heath,HEA201
+Northeast,BOSTON HARBOR,Hingham,HIN724
+Northeast,BOSTON HARBOR,Hingham,HINNWS
+Connecticut River,CONNECTICUT,Holyoke,HOL217
+Central,NASHUA,Holden,HOL423
+Central,NASHUA,W. Boylston,HOLMDC
+Cape Cod and Islands,CAPE COD,Hyannis,HYANWS
+Northeast,IPSWICH,Ipswich,IPS606
+Connecticut River,WESTFIELD,Huntington,KNICOE
+Southeast,TAUNTON,Lakeville,LAK810
+Western,HOUSATONIC,Lanesborough,LANNWS
+Northeast,MERRIMACK,Andover,LAWNWS
+Central,NASHUA,Leominster,LEO517
+Northeast,MERRIMACK,Littleton,LIT506
+Connecticut River,WESTFIELD,Huntington,LITCOE
+Northeast,MERRIMACK,Lowell,LOWNWS
+Connecticut River,CHICOPEE,Ludlow,LUD318
+Central,NASHUA,Lunenburg,LUN518
+Northeast,NORTH COASTAL,Lynn,LYN614
+Northeast,NORTH COASTAL,Manchester,MAN610
+Southeast,TEN MILE,Mansfield,MAN799
+Southeast,TAUNTON,Mansfield,MAN802
+Northeast,NORTH COASTAL,Manchester,MANACO
+Northeast,CONCORD,Marlboro,MAR512
+Northeast,NORTH COASTAL,Marblehead,MARNWS
+Northeast,CONCORD,Maynard,MAY516
+Southeast,CHARLES,Medway,MEDNWS
+Northeast,MERRIMACK,Methuen,METACO
+Southeast,TAUNTON,Middleborough,MID809
+Northeast,IPSWICH,Middleton,MIDNWS
+Southeast,CHARLES,Milford,MIL513
+Southeast,CHARLES,Millis,MIL721
+Northeast,BOSTON HARBOR,Milton,MILNWS
+Connecticut River,CONNECTICUT,Montague,MON305
+Connecticut River,CHICOPEE,Monson,MON323
+Cape Cod and Islands,ISLANDS,Nantucket,NAN920
+Northeast,CONCORD,Natick,NATNWS
+Northeast,CHARLES,Needham,NEE716
+Connecticut River,CHICOPEE,New Salem,NEW308
+Connecticut River,CHICOPEE,New Salem,NEW311
+Central,CHICOPEE,New Braintree,NEW422
+Northeast,MERRIMACK,Newburyport,NEW602
+Northeast,,Newton,NEW712
+Southeast,BUZZARDS BAY,New Bedford,NEW817
+Northeast,MERRIMACK,Salisbury,NEWNWS
+Western,HUDSON,North Adams,NOR102
+Connecticut River,CONNECTICUT,Mount Hermon,NOR301
+Central,BLACKSTONE,Whitinsville,NOR514
+Northeast,,North Andover,NOR550
+,,North  Attleboro,NOR800
+Western,FARMINGTON,Monterey,OTI111
+Western,FARMINGTON,Pittsfield,OTI115
+Connecticut River,CHICOPEE,Three Rivers,PAL319
+Northeast,,Peabody,PEA611
+Northeast,IPSWICH,Peabody,PEA612
+Connecticut River,CONNECTICUT,Pelham,PEL313
+Southeast,SOUTH COASTAL,Pembroke,PEM804
+Northeast,NASHUA,Pepperell,PEP503
+Northeast,NASHUA,Pepperell,PEPNWS
+Central,MILLERS,Petersham,PET408
+Central,CHICOPEE,Petersham,PET409
+Central,MILLERS,Petersham,PETNWS
+Western,HOUSATONIC,Pittsfield,PIT105
+Western,HOUSATONIC,Pittsfield,PIT106
+Connecticut River,WESTFIELD,Plainfield,PLA205
+Southeast,SOUTH COASTAL,Plymouth,PLY811
+Southeast,SOUTH COASTAL,North Plymouth,PLYNWS
+Central,NASHUA,Princeton,PRI412
+Central,NASHUA,Princeton,PRIMDC
+Northeast,BOSTON HARBOR,Reading,REANWS
+Southeast,SOUTH COASTAL,Rockland,ROC745
+Northeast,NORTH COASTAL,Rockport,ROCACO
+Southeast,TAUNTON,East Freetown,ROCNWS
+Central,CHICOPEE,South Barre,RUT417
+Central,NASHUA,Rutland,RUT418
+Northeast,NORTH COASTAL,Salem,SAL613
+Cape Cod and Islands,CAPE COD,Sandwich,SAN905
+Cape Cod and Islands,CAPE COD,Sandwich,SAN915
+Southeast,SOUTH COASTAL,Scituate,SCI733
+Connecticut River,DEERFIELD,Shelburne Falls,SHL204
+Central,QUINEBAUG,Southbridge,SOU430
+Central,NASHUA,Sterling,STEMDC
+Western,HOUSATONIC,Stockbridge,STO109
+Western,HOUSATONIC,Chester,STO110
+Northeast,CONCORD,Sudbury,SUD518
+Connecticut River,CONNECTICUT,Sunderland,SUNNWS
+Southeast,TAUNTON,Taunton,TAU806
+Southeast,TAUNTON,Taunton,TAUNW2
+Southeast,TAUNTON,Taunton,TAUNWS
+Connecticut River,MILLERS,Baldwinville,TEM403
+Central,MILLERS,Templeton,TEM405
+Cape Cod and Islands,ISLANDS,Vineyard Haven,TIS906
+Northeast,IPSWICH,Topsfield,TOP607
+Central,MILLERS,Athol,TULCOE
+Central,BLACKSTONE,Uxbridge,UXB515
+Northeast,NORTH COASTAL,Wakefield,WAK706
+Northeast,CHARLES,Waltham,WAL709
+Southeast,BOSTON HARBOR,Walpole,WAL731
+Connecticut River,CHICOPEE,Ware Center,WAR315
+Central,CHICOPEE,Warren,WAR427
+Southeast,BUZZARDS BAY,Onset,WAR815
+Connecticut River,CHICOPEE,Ware,WARNWS
+Western,,West Otis,WES101
+Connecticut River,WESTFIELD,Westfield,WES218
+Connecticut River,WESTFIELD,Westfield,WES219
+Connecticut River,WESTFIELD,West Springfield,WES221
+Northeast,MERRIMACK,Westford,WES507
+Northeast,CONCORD,Westboro,WES508
+Central,NASHUA,West Boylston,WES509
+Central,BLACKSTONE,Uxbridge,WESCOE
+Northeast,BOSTON HARBOR,Weymouth,WEY738
+Connecticut River,FARMINGTON,Granville,WGRNWS
+Western,HUDSON,Williamstown,WIL101
+Western,HUDSON,Williamstown,WIL103
+Connecticut River,CONNECTICUT,Williamsburg,WIL210
+Northeast,IPSWICH,Wilmington,WIL703
+Western,HOUSATONIC,Windsor,WIN107
+Central,MILLERS,Winchendon,WIN402
+Northeast,BOSTON HARBOR,Winchester,WIN705
+Northeast,BOSTON HARBOR,Woburn,WOB702
+Connecticut River,WESTFIELD,Worthington,WOR208
+Central,BLACKSTONE,Worcester,WORNWS
+Southeast,CHARLES,Wrentham,WRE729
+Southeast,BLACKSTONE,Wrentham,WRE730
+Cape Cod and Islands,CAPE COD,West Yarmouth,YAR911
