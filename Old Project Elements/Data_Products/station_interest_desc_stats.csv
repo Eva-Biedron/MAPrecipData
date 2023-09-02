@@ -1,0 +1,15 @@
+Statistics,COH726,LYN614,WEY738
+Months Reported,327.0,342.0,298.0
+Mean Precipitation,4.155,3.835,4.077
+Standard Deviation,2.075,2.362,2.011
+Minimum,0.11,0.17,0.63
+25% Quartile,2.735,2.062,2.507
+50% Quartile,3.9,3.35,3.805
+75% Quartile,5.2,4.8,5.27
+Maximum,13.85,15.5,11.27
+Median,3.9,3.35,3.805
+Mode,2.99,3.16,2.18
+Kurtosis,2.541,2.768,0.335
+Skew,1.181,1.398,0.694
+Normality: statistic,0.935,0.903,0.965
+Normality: p-value,0.0,0.0,0.0
